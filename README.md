@@ -1,8 +1,25 @@
 # Time-Table-Management-System
-The Time Table Management System is a crucial university project developed in C, designed to efficiently create a clash-free timetable for the required number of classes and professor allotments. This system streamlines the complex task of scheduling by automating the process, saving time and effort for the university staff.
+Time Wizard - Enchanted Time Table Management System
 
-Using the Time Table Management System, administrators can input various constraints, such as available classrooms, professors' availability, subjects, and their respective time slots. The system then intelligently analyzes these constraints and generates an optimized timetable that maximizes resource utilization and minimizes conflicts.
+Welcome to the Time Wizard, an enchanted C-based project designed to weave harmonious timetables for universities. With its magical algorithms and user-friendly incantations, the Time Wizard automates the intricate art of scheduling, conjuring clash-free timetables that leave no room for chaos.
 
-With its user-friendly interface, the system allows for easy input and modification of data, enabling quick adjustments if necessary. Additionally, it provides real-time clash detection, ensuring that no overlapping classes or professor allotments occur.
+Features of Time Wizard:
 
-The Time Table Management System in C is a powerful tool that enhances the productivity and organization of universities, creating a well-structured timetable that meets the institution's requirements while effectively managing resources. Its ability to handle complex scheduling tasks and deliver efficient solutions makes it an invaluable asset for any educational institution.
+🔮 Sorcery of Constraints: Input various enchantments like available classrooms, professor's mystical availability, subjects, and their elusive time slots.
+
+🔮 Clash Detection Charm: Fear not, for the Time Wizard wields the power to detect overlapping classes or professor allotments in real-time, vanishing all conflicts.
+
+🔮 Incantation Interface: With an interface that speaks the language of ease, you can swiftly input and modify data as if casting spells with a flick of your wand.
+
+🔮 Enchantment Algorithm: The Time Wizard weaves a spellbinding algorithm, crafting optimized timetables that meet the unique requirements of your institution.
+
+How to Summon the Time Wizard:
+
+🪄 Invoke your favorite C compiler and compile the source code.
+🪄 Cast the command to run the executable file, and the Time Wizard shall appear.
+🪄 Chant the required constraints through the enchanted interface.
+🪄 Witness the magic as the Time Wizard conjures the most harmonious timetable for your university.
+Note of Caution:
+
+🚫 Beware of mischievous data input, as it may result in perplexing timetables. Approach with care!
+🚫 The Time Wizard is meant for educational purposes and can be customized to fit the unique needs of your mystical institution.
