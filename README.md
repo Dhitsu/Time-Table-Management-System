@@ -1,25 +1,23 @@
-# Time-Table-Management-System
-Time Wizard - Enchanted Time Table Management System
+Time Table Management System - TimeStone
+Welcome to TimeStone, a project built in C that simplifies the creation of organized timetables for educational institutions. This practical system uses advanced algorithms and a user-friendly interface to automate the scheduling process, ensuring the generation of conflict-free timetables.
 
-Welcome to the Time Wizard, an enchanted C-based project designed to weave harmonious timetables for universities. With its magical algorithms and user-friendly incantations, the Time Wizard automates the intricate art of scheduling, conjuring clash-free timetables that leave no room for chaos.
+Features of TimeStone:
 
-Features of Time Wizard:
+🔸 Easy Constraints: Input classroom availability, faculty schedules, subjects, and time slots with ease.
 
-🔮 Sorcery of Constraints: Input various enchantments like available classrooms, professor's mystical availability, subjects, and their elusive time slots.
+🔸 Clash Detection: Identify and resolve class overlaps and scheduling conflicts in real time.
 
-🔮 Clash Detection Charm: Fear not, for the Time Wizard wields the power to detect overlapping classes or professor allotments in real-time, vanishing all conflicts.
+🔸 User-Friendly Interface: Interact effortlessly with the system to input and modify data.
 
-🔮 Incantation Interface: With an interface that speaks the language of ease, you can swiftly input and modify data as if casting spells with a flick of your wand.
+🔸 Efficient Algorithm: Generate optimized timetables tailored to your institution's needs.
 
-🔮 Enchantment Algorithm: The Time Wizard weaves a spellbinding algorithm, crafting optimized timetables that meet the unique requirements of your institution.
+How to Use:
 
-How to Summon the Time Wizard:
+Compile the source code using your preferred C compiler.
+Run the executable file.
+Input constraints through the intuitive interface.
+Witness TimeStone create well-organized timetables for your institution.
+Note:
 
-🪄 Invoke your favorite C compiler and compile the source code.
-🪄 Cast the command to run the executable file, and the Time Wizard shall appear.
-🪄 Chant the required constraints through the enchanted interface.
-🪄 Witness the magic as the Time Wizard conjures the most harmonious timetable for your university.
-Note of Caution:
-
-🚫 Beware of mischievous data input, as it may result in perplexing timetables. Approach with care!
-🚫 The Time Wizard is meant for educational purposes and can be customized to fit the unique needs of your mystical institution.
+⚠️ Use caution when inputting data to avoid confusing results.
+⚠️ This project is designed for educational purposes and can be customized to match your institution's requirements.
