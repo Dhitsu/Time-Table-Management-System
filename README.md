@@ -14,10 +14,16 @@ Features of TimeStone:
 How to Use:
 
 Compile the source code using your preferred C compiler.
+
 Run the executable file.
+
 Input constraints through the intuitive interface.
+
 Witness TimeStone create well-organized timetables for your institution.
+
+
 Note:
 
 ⚠️ Use caution when inputting data to avoid confusing results.
+
 ⚠️ This project is designed for educational purposes and can be customized to match your institution's requirements.
