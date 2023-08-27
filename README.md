@@ -1,3 +1,5 @@
+**TIME STONE**
+
 Time Table Management System - TimeStone
 Welcome to TimeStone, a project built in C that simplifies the creation of organized timetables for educational institutions. This practical system uses advanced algorithms and a user-friendly interface to automate the scheduling process, ensuring the generation of conflict-free timetables.
 
